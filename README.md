@@ -49,7 +49,7 @@ Software components:
 ### CAD model
 
 <p align="center">
-  <img src="CAD Models/Screenshot (79).png" alt="Autonomous Robot CAD" width="700" height="500"><br>
+  <img src="CAD Models/isometricview.png" alt="CAD Model" width="700" height="500"><br>
   <em>Figure: CAD Model</em>
 </p>
 
@@ -57,7 +57,7 @@ Software components:
 The autonomous mobile robot operates independently, performing tasks by integrating fundamental robotics principles such as perception, localization, control, and navigation. The following process flow diagram offers an overview of how the robot accomplishes tasks through the integration of both software and hardware components:
 
 <p align="center">
-  <img src="Flow_diagram1.png" alt="Autonomous Robot CAD" ><br>
+  <img src="Flow_diagram1.png" alt="Flow Diagram" ><br>
   <em>Figure: Flow diagram</em>
 </p>
 
