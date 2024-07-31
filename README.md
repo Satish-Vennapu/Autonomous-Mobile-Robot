@@ -49,7 +49,7 @@ Software components:
 ### CAD model
 
 <p align="center">
-  <img src="CAD Models/isometricview.png" alt="CAD Model" width="700" height="500"><br>
+  <img src="./CAD models/isometricview.png" alt="CAD Model" width="700" height="500"><br>
   <em>Figure: CAD Model</em>
 </p>
 
@@ -66,5 +66,5 @@ The autonomous mobile robot operates independently, performing tasks by integrat
 For more info on running the project : "SELF DRIVING CAR CODES" section
 
 ## Demo videos:
-More working videos click [here](./Demo%20videos/) 
+More working videos click [here](./Demo videos/) 
 
